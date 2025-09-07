@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Soy estudiante de Ingenieria Informatica de la UNMDP.
-Me interesa explorar cómo la tecnología puede convertirse en una herramienta concreta para mejorar distintos aspectos de la vida cotidiana.
-La considero una herramienta fundamental para el presente y el futuro, teniendo en cuenta el impacto que esta tiene en nuestra realidad.
-Encuentro especialmente intereseante cómo campos como Web3 e Inteligencia Artificial pueden aportar nuevas posibilidades y transformarse en pilares del desarrollo de soluciones en un futuro muy cercano.
+🚀 Me interesa explorar cómo la tecnología puede convertirse en una herramienta concreta para mejorar distintos aspectos de la vida cotidiana. La considero una herramienta fundamental para el presente y el futuro, teniendo en cuenta el impacto que esta tiene en nuestra realidad.  
+
+👨‍💻 Encuentro especialmente intereseante cómo campos como Web3 e Inteligencia Artificial pueden aportar nuevas posibilidades y transformarse en pilares del desarrollo de soluciones en un futuro muy cercano.
